@@ -1,0 +1,8 @@
+com\dvdlibrarycollection\view\UserIOImpl.class
+com\dvdlibrarycollection\dao\DvdDaoImpl.class
+com\dvdlibrarycollection\dto\Dvd.class
+com\dvdlibrarycollection\app\App.class
+com\dvdlibrarycollection\dao\DvdDao.class
+com\dvdlibrarycollection\view\DvdView.class
+com\dvdlibrarycollection\controller\DvdController.class
+com\dvdlibrarycollection\view\UserIO.class
